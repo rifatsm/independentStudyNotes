@@ -1,0 +1,44 @@
+*Task Assigment: Monday, April 02,2018:*
+
+
+
+# (done) MOCK: Remove extra text at bottom of worker tutorial page (*Ri <1 hour*)
+# (done) MOCK: Tell user it’s time to start  (*Ri <1 hour*)
+# (done) MOCK: Add a step 1 -“Welcome to the tutorial”  (*Ri <1 hour*)
+# (done) MOCK: Implement 4x4 grid for tutorial  (*Ri 2 hours*)
+
+
+
+
+
+## (done) WORKER: Worker UI  (*Ri <1 hour*)
+- timer should be removed 
+- Heading should be removed
+- Tutorial should be removed
+
+## (done) WORKER: Instead of timer  (*Ri 2 hours*)
+- alert msg at 5 min
+- alert at 8 min
+- alert at 10 min
+(done) CORRECT THE TIME
+
+# (done) WORKER: Redesign worker UI to three columns  (*Ri 2 hours*)
+
+
+
+
+
+## (done) EXPERT: Regions wise worker distribution  (*Ri 3 hours*)
+
+# (done) EXPERT: Put diagram width selection under diagram as select menu and rename Small, Medium, Large  (*Ri  1 hour*)
+ - Menu created
+ - Functionality required
+
+# (done) EXPERT: Remove remaining time from expert task page
+# (done) EXPERT: Remove hint — we will provide this verbally  (*Ri <1 hour*)
+
+# (done) EXPERT: Remove investigation - make button red  (*Ri <1 hour*)
+
+# (done) EXPERT: Implement color legend table as HTML (*Ri = 1 hour*)
+
+# (done) EXPERT: Change Text: “Start Searching”  instead of “Start Investigation” in Expert UI (*Ri <1 hour*)

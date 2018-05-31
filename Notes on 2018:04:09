@@ -1,0 +1,21 @@
+Tasks:
+
+Worker UI and MOCK UI:
+
+# (in review) Implement 3 column design. We agreed on implementing it with fixed width as such: 600px (diagram), 600px (mainmap), and 200px (minimap) (*Ri 3 hour*)
+# (in review) Make mainmap and diagram as non-fluid div, and minimap as fluid div (*Ri < 1 hour*)
+# (done) Timecheck instead of "Please Hurry Up" for 5 and 8 minutes margin (*Ri < 1 hour*)
+# (done) Use toast feature instead of model for Timecheck (*Ri 1 hour*)
+ - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_snackbar
+
+
+Expert UI:
+
+# (done) Change all "Investigation" to "Search Region" (*Ri < 1 hr*)
+# (done) Implement Table for worker budget (*Ri 1 hour*)
+# (done) Implement the conventional Dropdown menu UX for Estimate width (*Ri 1 hour*)
+# Place the Drawing Mode, Viewing Mode, Found it, Exclude the Grid, and Hide Color/Show Color - buttons on the mainmap (*Ri 2 hour*)
+# Flow of the interface: Estimate width -> (enable button)-> Drawing Mode (*Ri 1 hour*)
+# (done) Discard the selected option from the bottom of mainmap (*Ri < 1* hour*)
+
+

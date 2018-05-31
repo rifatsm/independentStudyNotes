@@ -1,0 +1,28 @@
+Tasks:
+
+Worker UI and MOCK UI:
+
+# Fix the ``main-map'' div width (*Ri 1 hour*)
+# Make the ``digram'' div fluid (*Ri 1 hour*)
+# We want to keep the diagram and main-map the same size. Try to find a way to keep it.
+# Implement MOCK in the main system (*Ri 5 hour*)
+
+
+Expert UI:
+
+# Place the Drawing Mode, Viewing Mode, Found it, Exclude the Grid, and Hide Color/Show Color - buttons on the mainmap (*Ri 3 hour*)
+# Flow of the interface: Estimate width -> (enable button)-> Drawing Mode (*Ri 1 hour*)
+# "Draw Search Space" instead of "Drawing Mode" (*Ri < 1 hour*)
+# (fixed) Bootstrap Form Select for ``Estimate the width of the Diagram'' (*Ri 1 hour*)
+Link: https://getbootstrap.com/docs/4.0/components/forms/
+# Smaller font for worker bugdet overflow. (*Ri < 1 hour*)
+# Save a Rendered version of the Expert UI html page and share it in the Slack for others to check. (*Ri < 1 hour*)
+
+Target for Journal Paper
+
+
+Bug:
+# (fixed) Start Search button is hidden after Remove Search Space. (Fix this)
+
+
+

@@ -1,0 +1,23 @@
+Changes Needed to be Implemented:
+- Color of the feedbacks based on the background needs discussion
+- Let workers finish the Tutorial after half way through 
+- MouseFlow free account on GT worker UI
+- Stop reloading of worker UI page 
+- Assign workers on the regions; once one region is finished move onto to the another. 
+- Prioritize the regions regarding assigning workers. 
+- Resize the minimap in the worker UI
+
+- Geo-hashing - segments the whole earth in rectangles
+
+Tentative schedule:
+- Implement new changes in the GT system (by April 02, 2018)
+- Test with the members of the research team (on April 02, 2018) 
+- Run another pilot experiment with modified GT system (by April 05, 2018)
+- Iterate the modification of the GT+LT system by getting feedback from the experts (semester long). 
+- Automate the whole process (GT+LT) so that we do not need a developer present when we run the experiment.
+- Publish it publicly online once the system is stable enough.
+
+Requirements for making GT+LT a standalone system:
+- Upload ground level image as well as diagram images
+- Use the LT API in order to automate the whole worker population
+- Store the final selected grid in the expert investigation
